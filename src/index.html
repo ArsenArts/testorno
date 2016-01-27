@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Testorno</title>
+  <meta name="description" content="Test machine">
+  <meta name="keywords" content="test">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+  <meta name="apple-mobile-web-app-title" content="Testorno">
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-touch-icon-60x60.png">
+  <link rel="icon" type="image/png" href="assets/img/favicon/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="assets/img/favicon/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="assets/img/favicon/manifest.json">
+  <link rel="mask-icon" href="assets/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="assets/img/favicon/favicon.ico">
+  <link href='https://fonts.googleapis.com/css?family=Fugaz+One|Roboto:400,300,500&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <section id="intro" class="hidden">
+    <div class="inner">
+      <h1 class="logo">Testorno</h1>
+      <p class="in-desc">Handle your knowledge</p>
+      <div class="in-avatar">
+        <div class="in-face"></div>
+        <i class="in-arrow icon-chevron-left"></i>
+        <i class="in-arrow icon-chevron-right"></i>
+      </div>
+      <input type="text" class="in-name" placeholder="Name" autofocus>
+      <button class="in-submit btn btn-large">Enter</button>
+      <div class="video-overlay"></div>
+      <video class="video-background" autoplay="" loop="">
+        <source src="assets/video/background.mp4" type="video/mp4">
+      </video>
+    </div>
+  </section>
+  <section id="home" class="hidden">
+    <header id="header">
+      <h1 class="logo">Testorno</h1>
+    </header>
+    <main id="content">
+      <aside id="sidebar">
+        <nav class="nav">
+          <ul>
+            <li class="nav-inbox active">
+              <a href="#/inbox"><i class="icon-inbox"></i><span>Inbox <b>0</b></span></a>
+            </li>
+            <li class="nav-completed">
+              <a href="#/completed"><i class="icon-check"></i><span>Completed <b>0</b></span></a>
+            </li>
+            <li class="nav-featured">
+              <a href="#/featured"><i class="icon-star"></i><span>Featured <b>0</b></span></a>
+            </li>
+          </ul>
+        </nav>
+        <div class="user-info">
+          <div class="user-avatar"></div>
+          <div class="user-name">
+            <strong></strong>
+            <a href="#" class="log-out">Logout</a>
+          </div>
+          <div class="user-level"></div>
+        </div>
+      </aside>
+      <div id="testlist">
+        <ul class="inner"></ul>
+      </div>
+      <div id="questionnaire">
+        <div class="inner preview-inner"></div>
+        <div class="inner test-inner hidden">
+          <div class="ts-questions"></div>
+          <div class="ts-progress">
+            <span class="count"></span>/<span class="total"></span>
+          </div>
+          <div class="ts-controls"></div>
+        </div>
+        <div class="inner result-inner hidden">
+      </div>
+    </main>
+  </section>
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/models/user.js"></script>
+  <script src="assets/js/models/collection-list.js"></script>
+  <script src="assets/js/models/collection.js"></script>
+  <script src="assets/js/models/test.js"></script>
+  <script src="assets/js/models/question.js"></script>
+  <script src="assets/js/services/datacontext.js"></script>
+  <script src="assets/js/services/routemediator.js"></script>
+  <script src="assets/js/utils/slider.js"></script>
+</body>
+</html>
