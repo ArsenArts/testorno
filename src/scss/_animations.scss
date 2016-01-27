@@ -1,0 +1,33 @@
+@-webkit-keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes input-error {
+  0%, 100% { border-bottom-color: #FFF; }
+  10%, 50% { border-bottom-color: $red; }
+}
+
+@keyframes input-error {
+  0%, 100% { border-bottom-color: #FFF; }
+  10%, 50% { border-bottom-color: $red; }
+}
+
+@-webkit-keyframes box-expand {
+  to {
+    opacity: 0;
+    -webkit-transform: scale(3);
+  }
+}
+
+@keyframes box-expand {
+  to {
+    opacity: 0;
+    transform: scale(3);
+  }
+}
