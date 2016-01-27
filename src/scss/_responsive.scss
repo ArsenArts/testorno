@@ -1,0 +1,34 @@
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+  .in-face {
+    background-image: url(../img/avatars/avatars-large@2x.png);
+  }
+}
+
+@media (max-width: 1440px) {
+  .in-avatar {
+    width: 180px * 1.5;
+    height: 180px;
+  }
+  .in-face {
+    width: 180px;
+    height: 180px;
+    background-image: url(../img/avatars/avatars.png);
+  }
+  .ts-question {
+    width: 60%;
+  }
+}
+
+
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-device-pixel-ratio: 2),
+(min-resolution: 192dpi),
+(max-width: 1440px) {
+  .in-face {
+    background-image: url(../img/avatars/avatars@2x.png);
+  }
+}
