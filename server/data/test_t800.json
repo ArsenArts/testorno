@@ -1,0 +1,37 @@
+{
+  "id": "t800",
+  "author": "John Connor",
+  "date": "4 Aug 1997",
+  "title": "The Future is not set",
+  "totalScore": 100,
+  "questions": [
+    {
+      "index": 1,
+      "title": "What you are?",
+      "type": "multiple",
+      "options": [ "The terminator", "T-800", "Shapeshifting android assassin" ],
+      "score": 25
+    },
+    {
+      "index": 2,
+      "title": "Yeah? Who sent you?",
+      "type": "single",
+      "options": [ "Skynet", "Sarah Connor", "You" ],
+      "score": 25
+    },
+    {
+      "index": 3,
+      "title": "So this other guy? He's a terminator too, right, like you?",
+      "type": "multiple",
+      "options": [ "Yes, he is a terminator with living tissue over a metal endoskeleton", "Not like me. A T-1000. Advanced prototype. Liquid metal" ],
+      "score": 25
+    },
+    {
+      "index": 4,
+      "title": "Where we going?",
+      "type": "single",
+      "options": [ "We are going to visit your mom", "We have to leave the city, immediately", "I must introduce you to my friend, the T-1000" ],
+      "score": 25
+    }
+  ]
+}
