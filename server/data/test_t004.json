@@ -1,0 +1,44 @@
+{
+  "id": "t004",
+  "author": "Nathan Algren",
+  "date": "18 Nov 1870",
+  "title": "I Will Tell You How He Lived",
+  "totalScore": 200,
+  "questions": [
+    {
+      "index": 1,
+      "title": "The perfect ******* is a rare thing. You could spend your life looking for one, and it would not be a wasted life",
+      "tip": "What the flower is that?",
+      "type": "custom",
+      "score": 70
+    },
+    {
+      "index": 2,
+      "title": "What happened to the warriors at Thermopylae?",
+      "type": "single",
+      "options": [ "Dead to the last man", "They are still alive", "I don't know" ],
+      "score": 20
+    },
+    {
+      "index": 3,
+      "title": "I killed her husband?",
+      "type": "single",
+      "options": [ "You will pay for that!", "It was a good death", "Oh, nevermind" ],
+      "score": 20
+    },
+    {
+      "index": 4,
+      "title": "There is Life in every breath...",
+      "tip": "What is that referring to Katsumoto?",
+      "type": "custom",
+      "score": 70
+    },
+    {
+      "index": 5,
+      "title": "Who sent those men to kill you? Was it the Emperor? Omura?",
+      "type": "single",
+      "options": [ "The Emperor", "Omura", "Simon Graham" ],
+      "score": 20
+    }
+  ]
+}
