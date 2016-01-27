@@ -1,0 +1,37 @@
+{
+  "id": "t889",
+  "author": "Nikola Tesla",
+  "date": "6 Nov 1915",
+  "title": "Great Moments are born Great Oppurtunity",
+  "totalScore": 120,
+  "questions": [
+    {
+      "index": 1,
+      "title": "Which one I prefer the most?",
+      "type": "single",
+      "options": [ "Direct current", "Alternating current", "None of them" ],
+      "score": 10
+    },
+    {
+      "index": 2,
+      "title": "The most generous person I've ever met is...",
+      "type": "single",
+      "options": [ "Thomas Edison", "J. P. Morgan", "None of them" ],
+      "score": 40
+    },
+    {
+      "index": 3,
+      "title": "What is the name of my tower in Long Island, New York?",
+      "type": "custom",
+      "score": 30
+    },
+    {
+      "index": 4,
+      "title": "Who invented the radio first?",
+      "tip": "I don't care that they stole my idea... I care that they don't have any of their own. Marconi is a good fellow. Let him continue. He is using seventeen of my patents",
+      "type": "single",
+      "options": [ "Guglielmo Marconi", "Alexander Popov", "Ferdinand Braun", "It definitely was you, Nikola!" ],
+      "score": 40
+    }
+  ]
+}
