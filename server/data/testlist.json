@@ -1,0 +1,50 @@
+[
+  {
+    "id": "t101",
+    "author": "Morpheus",
+    "date": "7 Jan",
+    "title": "Painful Truth of Reality",
+    "description": "Do you know who this is?\n I've been looking for you, Neo. I don't know if you're ready to see what I want to show you, but unfortunately you and I have run out of time. They're coming for you, Neo, and I don't know what they're going to do.\nI can guide you but you must do exactly as I say.\nYou have the look of a man who accepts what he sees because he is expecting to wake up. Ironically, this is not far from the truth.\n Let me tell you why you're here. You're here because <em>you know something.</em>",
+    "cover": "https://s-media-cache-ak0.pinimg.com/736x/c1/90/13/c19013f1a30825406c0110cc95ef6570.jpg"
+  },
+  {
+    "id": "t003",
+    "author": "Marty McFly",
+    "date": "21 Oct 2015",
+    "title": "Back to the Future",
+    "description": "Hey, Doc? Doc. Hello, anybody home? What's going on? Hey, hey, Doc, where are you?\n I have some questions for you...",
+    "cover": "http://s.newsweek.com/sites/www.newsweek.com/files/2015/10/20/back-future-2.jpg"
+  },
+  {
+    "id": "t800",
+    "author": "John Connor",
+    "date": "4 Aug 1997",
+    "title": "The Future is not set!",
+    "description": "Hasta la vista, baby!\n Here is what my mom told about you:\n \"Watching John with the machine, it was suddenly so clear. The terminator, would never stop. It would never leave him, and it would never hurt him, never shout at him, or get drunk and hit him, or say it was too busy to spend time with him. It would always be there. And it would die, to protect him. Of all the would-be fathers who came and went over the years, this thing, this machine, was the only one who measured up. In an insane world, it was the sanest choice.\"\n Let's check it out?",
+    "cover": "http://howsyourrobot.com/wp-content/uploads/2013/01/terminator-2-smile.jpg"
+  },
+  {
+    "id": "t889",
+    "author": "Nikola Tesla",
+    "date": "6 Nov 1915",
+    "title": "Great Moments are born Great Oppurtunity",
+    "description": "The progressive development of man is vitally dependent on invention. It is the most important product of his creative brain. Its ultimate purpose is the complete mastery of mind over the material world, the harnessing of the forces of nature to human needs.\n My brain is only a receiver, in the Universe there is a core from which we obtain knowledge, strength and inspiration. I have not penetrated into the secrets of this core, but I know that it exists.\n So think in terms of that and you will pass my test, dude!",
+    "cover": "http://www.popmech.ru/upload/iblock/ffe/ffe1cab69e10886dbd3d929b0271d5bb.jpg"
+  },
+  {
+    "id": "t004",
+    "author": "Nathan Algren",
+    "date": "18 Nov 1870",
+    "title": "I Will Tell You How He Lived",
+    "description": "They say Japan was made by a sword. They say the old gods dipped a coral blade into the ocean, and when they pulled it out four perfect drops fell back into the sea, and those drops became the islands of Japan. I say, Japan was made by a handful of brave men. Warriors, willing to give their lives for what seems to have become a forgotten word: honor.",
+    "cover": "http://cdn.gaijinpot.com/wp-content/uploads/sites/4/2015/04/last-samurai.jpg"
+  },
+  {
+    "id": "t005",
+    "author": "Leonardo da Vinci",
+    "date": "14 Sep 1514",
+    "title": "Painting is a Poetry",
+    "description": "Ciao a tutti!\n I've made some cool painting. I will appreciate if you visit my gallery, but you can also check it out in my blog. Anyway, I'm waiting for your response, guys. And if you are ready, you can have a quiz. Promise, it will be interesting!\n And remember, details make perfection, and perfection is not a detail.\n See ya ;)\n P. S. The winner takes a self-portrait by myself.",
+    "cover": "http://theaimn.com/wp-content/uploads/2015/03/davinci.jpg"
+  }
+]
